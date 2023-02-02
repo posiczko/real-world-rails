@@ -583,10 +583,6 @@
 	 path = apps/shinycms-ruby
 	 url = git@github.com:denny/ShinyCMS-ruby.git
 	 branch = main
-[submodule "apps/shoppe"]
-	 path = apps/shoppe
-	 url = git@github.com:tryshoppe/shoppe.git
-	 branch = master
 [submodule "apps/showterm.io"]
 	 path = apps/showterm.io
 	 url = git@github.com:ConradIrwin/showterm.io.git
@@ -798,10 +794,6 @@
 [submodule "engines/notable"]
 	 path = engines/notable
 	 url = git@github.com:ankane/notable.git
-	 branch = master
-[submodule "engines/o_cms"]
-	 path = engines/o_cms
-	 url = git@github.com:benjaminayres/o_cms.git
 	 branch = master
 [submodule "engines/pageflow"]
 	 path = engines/pageflow
