@@ -29,7 +29,7 @@ git submodule update --init
 # OR If you've got git 2.9+ installed try to run updates in parallel:
 # git submodule update --init --jobs 4
 
-# The rubychina project has a bad object. To work around it, disable git's fsck of fetched object temporarily:
+# The ruby-china project has a bad object. To work around it, disable git's fsck of fetched object temporarily:
 git config --global fetch.fsckobjects false
 
 # To run the `bin/rwr` inspectors, install gems:
