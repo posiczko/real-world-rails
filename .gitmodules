@@ -1,7 +1,7 @@
 [submodule "apps/24pullrequests"]
 	 path = apps/24pullrequests
 	 url = git@github.com:24pullrequests/24pullrequests.git
-	 branch = master
+	 branch = main
 [submodule "apps/accelerated_claims"]
 	 path = apps/accelerated_claims
 	 url = git@github.com:ministryofjustice/accelerated_claims.git
@@ -17,11 +17,11 @@
 [submodule "apps/alchemy_cms"]
 	 path = apps/alchemy_cms
 	 url = git@github.com:AlchemyCMS/alchemy_cms.git
-	 branch = master
+	 branch = main
 [submodule "apps/alonetone"]
 	 path = apps/alonetone
 	 url = git@github.com:sudara/alonetone.git
-	 branch = master
+	 branch = main
 	 ignore = dirty
 [submodule "apps/amahi-platform"]
 	 path = apps/amahi-platform
@@ -58,7 +58,7 @@
 [submodule "apps/calagator"]
 	 path = apps/calagator
 	 url = git@github.com:calagator/calagator.git
-	 branch = master
+	 branch = main
 [submodule "apps/camaleon-cms"]
 	 path = apps/camaleon-cms
 	 url = git@github.com:owen2345/camaleon-cms.git
@@ -82,7 +82,7 @@
 [submodule "apps/cfp-app"]
 	 path = apps/cfp-app
 	 url = git@github.com:rubycentral/cfp-app.git
-	 branch = master
+	 branch = main
 [submodule "apps/champaign"]
 	 path = apps/champaign
 	 url = git@github.com:SumOfUs/Champaign.git
@@ -138,7 +138,7 @@
 [submodule "apps/crimethinc-website"]
 	 path = apps/crimethinc-website
 	 url = git@github.com:crimethinc/website.git
-	 branch = master
+	 branch = main
 [submodule "apps/csvlint"]
 	 path = apps/csvlint
 	 url = git@github.com:theodi/csvlint.git
@@ -162,7 +162,7 @@
 [submodule "apps/dev.to"]
 	 path = apps/dev.to
 	 url = git@github.com:thepracticaldev/dev.to.git
-	 branch = master
+	 branch = main
 [submodule "apps/devise_authentication_api"]
 	 path = apps/devise_authentication_api
 	 url = git@github.com:ministryofjustice/devise_authentication_api.git
@@ -174,7 +174,7 @@
 [submodule "apps/discourse"]
 	 path = apps/discourse
 	 url = git@github.com:discourse/discourse.git
-	 branch = master
+	 branch = main
 [submodule "apps/ds-auth"]
 	 path = apps/ds-auth
 	 url = git@github.com:ministryofjustice/ds-auth.git
@@ -206,7 +206,7 @@
 [submodule "apps/errbit"]
 	 path = apps/errbit
 	 url = git@github.com:errbit/errbit.git
-	 branch = master
+	 branch = main
 [submodule "apps/eventkit-rails"]
 	 path = apps/eventkit-rails
 	 url = git@github.com:sendgrid/eventkit-rails.git
@@ -246,7 +246,7 @@
 [submodule "apps/frontend"]
 	 path = apps/frontend
 	 url = git@github.com:alphagov/frontend.git
-	 branch = master
+	 branch = main
 [submodule "apps/fulcrum"]
 	 path = apps/fulcrum
 	 url = git@github.com:fulcrum-agile/fulcrum.git
@@ -258,7 +258,7 @@
 [submodule "apps/git-scm"]
 	 path = apps/git-scm
 	 url = git@github.com:git/git-scm.com.git
-	 branch = master
+	 branch = main
 [submodule "apps/github-awards"]
 	 path = apps/github-awards
 	 url = git@github.com:vdaubry/github-awards.git
@@ -274,7 +274,7 @@
 [submodule "apps/growstuff"]
 	 path = apps/growstuff
 	 url = git@github.com:Growstuff/growstuff.git
-	 branch = master
+	 branch = dev
 [submodule "apps/heaven"]
 	 path = apps/heaven
 	 url = git@github.com:atmos/heaven.git
@@ -310,19 +310,19 @@
 [submodule "apps/hyku"]
 	 path = apps/hyku
 	 url = git@github.com:samvera-labs/hyku.git
-	 branch = master
+	 branch = main
 [submodule "apps/identity-idp"]
 	 path = apps/identity-idp
 	 url = git@github.com:18F/identity-idp.git
-	 branch = master
+	 branch = main
 [submodule "apps/ifme"]
 	 path = apps/ifme
 	 url = git@github.com:julianguyen/ifme.git
-	 branch = master
+	 branch = main
 [submodule "apps/imminence"]
 	 path = apps/imminence
 	 url = git@github.com:alphagov/imminence.git
-	 branch = master
+	 branch = main
 [submodule "apps/inch_ci-web"]
 	 path = apps/inch_ci-web
 	 url = git@github.com:inch-ci/inch_ci-web.git
@@ -354,7 +354,7 @@
 [submodule "apps/libraries.io"]
 	 path = apps/libraries.io
 	 url = git@github.com:librariesio/libraries.io.git
-	 branch = master
+	 branch = main
 [submodule "apps/lobsters"]
 	 path = apps/lobsters
 	 url = git@github.com:jcs/lobsters.git
@@ -376,9 +376,9 @@
 	 url = git@github.com:MarkUsProject/Markus.git
 	 branch = master
 [submodule "apps/mastodon"]
-	 path = apps/mastodon
-	 url = git@github.com:tootsuite/mastodon.git
-	 branch = master
+	path = apps/mastodon
+	url = https://github.com/mastodon/mastodon
+	branch = main
 [submodule "apps/metrics"]
 	 path = apps/metrics
 	 url = git@github.com:collectiveidea/metrics.git
@@ -458,7 +458,7 @@
 [submodule "apps/parliamentary-questions"]
 	 path = apps/parliamentary-questions
 	 url = git@github.com:ministryofjustice/parliamentary-questions.git
-	 branch = dev
+	 branch = main
 [submodule "apps/peatio"]
 	 path = apps/peatio
 	 url = git@github.com:peatio/peatio.git
@@ -506,7 +506,7 @@
 [submodule "apps/publisher"]
 	 path = apps/publisher
 	 url = git@github.com:alphagov/publisher.git
-	 branch = master
+	 branch = main
 [submodule "apps/pupilfirst"]
 	 path = apps/pupilfirst
 	 url = git@github.com:pupilfirst/pupilfirst.git
@@ -554,7 +554,7 @@
 [submodule "apps/ruby-china"]
 	 path = apps/ruby-china
 	 url = git@github.com:ruby-china/ruby-china.git
-	 branch = master
+	 branch = main
 [submodule "apps/rubygems"]
 	 path = apps/rubygems
 	 url = git@github.com:rubygems/rubygems.org.git
@@ -566,7 +566,7 @@
 [submodule "apps/rubytoolbox"]
 	 path = apps/rubytoolbox
 	 url = git@github.com:rubytoolbox/rubytoolbox.git
-	 branch = master
+	 branch = main
 [submodule "apps/samson"]
 	 path = apps/samson
 	 url = git@github.com:zendesk/samson.git
@@ -590,7 +590,7 @@
 [submodule "apps/signonotron2"]
 	 path = apps/signonotron2
 	 url = git@github.com:alphagov/signonotron2.git
-	 branch = master
+	 branch = main
 [submodule "apps/snibox"]
 	 path = apps/snibox
 	 url = git@github.com:snibox/snibox.git
@@ -618,7 +618,7 @@
 [submodule "apps/spree"]
 	 path = apps/spree
 	 url = git@github.com:spree/spree.git
-	 branch = master
+	 branch = main
 [submodule "apps/squash-web"]
 	 path = apps/squash-web
 	 url = git@github.com:SquareSquash/web.git
@@ -634,7 +634,7 @@
 [submodule "apps/theodinproject"]
 	 path = apps/theodinproject
 	 url = git@github.com:TheOdinProject/theodinproject.git
-	 branch = master
+	 branch = main
 [submodule "apps/timeoverflow"]
 	 path = apps/timeoverflow
 	 url = git@github.com:coopdevs/timeoverflow.git
@@ -674,7 +674,7 @@
 [submodule "apps/whitehall"]
 	 path = apps/whitehall
 	 url = git@github.com:alphagov/whitehall.git
-	 branch = master
+	 branch = main
 [submodule "apps/wiki_edu_dashboard"]
 	 path = apps/wiki_edu_dashboard
 	 url = git@github.com:WikiEducationFoundation/WikiEduDashboard.git
@@ -694,7 +694,7 @@
 [submodule "engines/administrate"]
 	 path = engines/administrate
 	 url = git@github.com:thoughtbot/administrate.git
-	 branch = master
+	 branch = main
 [submodule "engines/ahoy"]
 	 path = engines/ahoy
 	 url = git@github.com:ankane/ahoy.git
@@ -714,7 +714,7 @@
 [submodule "engines/browse-everything"]
 	 path = engines/browse-everything
 	 url = git@github.com:projecthydra/browse-everything.git
-	 branch = master
+	 branch = main
 [submodule "engines/cangaroo"]
 	 path = engines/cangaroo
 	 url = git@github.com:nebulab/cangaroo.git
@@ -770,7 +770,7 @@
 [submodule "engines/hyrax"]
 	 path = engines/hyrax
 	 url = git@github.com:samvera/hyrax.git
-	 branch = master
+	 branch = main
 [submodule "engines/lentil"]
 	 path = engines/lentil
 	 url = git@github.com:NCSU-Libraries/lentil.git
@@ -782,7 +782,7 @@
 [submodule "engines/local_time"]
 	 path = engines/local_time
 	 url = git@github.com:basecamp/local_time.git
-	 branch = master
+	 branch = main
 [submodule "engines/mailkick"]
 	 path = engines/mailkick
 	 url = git@github.com:ankane/mailkick.git
@@ -830,7 +830,7 @@
 [submodule "engines/rucaptcha"]
 	 path = engines/rucaptcha
 	 url = git@github.com:huacnlee/rucaptcha.git
-	 branch = master
+	 branch = main
 [submodule "engines/sail"]
 	 path = engines/sail
 	 url = git@github.com:vinistock/sail.git
@@ -846,7 +846,7 @@
 [submodule "engines/shopify_app"]
 	 path = engines/shopify_app
 	 url = git@github.com:Shopify/shopify_app.git
-	 branch = master
+	 branch = main
 [submodule "engines/stripe_event"]
 	 path = engines/stripe_event
 	 url = git@github.com:integrallis/stripe_event.git
@@ -863,3 +863,67 @@
 	 path = engines/tolk
 	 url = git@github.com:tolk/tolk.git
 	 branch = master
+[submodule "apps/tryshoppe"]
+	path = apps/tryshoppe
+	url = https://github.com/jackregnart/core.git
+	branch = master
+[submodule "apps/ciao"]
+	path = apps/ciao
+	url = https://github.com/brotandgames/ciao
+	branch = master
+[submodule "apps/railsdevs.com"]
+	path = apps/railsdevs.com
+	url = https://github.com/joemasilotti/railsdevs.com
+	branch = main
+[submodule "apps/rubyland"]
+	path = apps/rubyland
+	url = https://github.com/jrochkind/rubyland
+	branch = master
+[submodule "app/simple-server"]
+	path = app/simple-server
+	url = https://github.com/simpledotorg/simple-server
+	branch = master
+[submodule "app/vglist"]
+	path = app/vglist
+	url = https://github.com/connorshea/vglist
+	branch = main
+[submodule "app/houdini"]
+	path = app/houdini
+	url = https://github.com/houdiniproject/houdini
+	branch = main
+[submodule "app/plots2"]
+	path = app/plots2
+	url = https://github.com/publiclab/plots2
+	branch = main
+[submodule "app/rubyapi"]
+	path = app/rubyapi
+	url = https://github.com/rubyapi/rubyapi
+	branch = main
+[submodule "gems/noticed"]
+	path = gems/noticed
+	url = https://github.com/excid3/noticed
+	branch = master
+[submodule "engines/noticed"]
+	path = engines/noticed
+	url = https://github.com/excid3/noticed
+	branch = master
+[submodule "apps/fab-manager"]
+	path = apps/fab-manager
+	url = https://github.com/sleede/fab-manager
+	branch = master
+[submodule "engines/versioncake"]
+	path = engines/versioncake
+	url = https://github.com/bwillis/versioncake
+	branch = master
+[submodule "apps/blacklight"]
+	path = apps/blacklight
+	url = https://github.com/projectblacklight/blacklight
+	branch = master
+[submodule "engines/merit"]
+	path = engines/merit
+	url = https://github.com/merit-gem/merit
+	branch = master
+[submodule "engines/simple_discussion"]
+	path = engines/simple_discussion
+	url = https://github.com/excid3/simple_discussion
+	branch = master
