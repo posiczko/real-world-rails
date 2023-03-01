@@ -765,6 +765,13 @@ Main Website for The Odin Project [http://www.theodinproject.com](http://www.the
 Sail is a lightweight Rails engine that brings an admin panel for managing configuration settings on a live Rails app  
 [https://github.com/vinistock/sail](https://github.com/vinistock/sail)
 
+### RailsDevs
+RailsDevs is a reverse job board for Ruby on Rails developers; sit back as companies reach out to you first.
+[https://railsdevs.com](https://railsdevs.com)
+
+[https://github.com/joemasilotti/railsdevs.com](https://github.com/joemasilotti/railsdevs.com) 
+
+
 
 ## Moved/Missing/Deleted Repos
 TODO: check the repos below - moved, renamed or deleted?
